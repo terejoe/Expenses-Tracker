@@ -1,0 +1,15 @@
+.expenses-filter__control {
+ display:flex;
+ padding-bottom: 10px;
+}
+.expenses-filter__control label {
+  color: white;
+  font-size: larger;
+  font-weight: 600;
+}
+
+.expenses-filter__control select {
+  padding: 1.5% 5%;
+  justify-content:space-evenly;
+  margin-left: 20px;
+}
