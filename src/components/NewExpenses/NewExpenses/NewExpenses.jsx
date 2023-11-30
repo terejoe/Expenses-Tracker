@@ -1,6 +1,6 @@
 import React from 'react'
 
-import ExpenseForm from './ExpenseForm'
+import ExpenseForm from '../ExpenseForm/ExpenseForm'
 import './NewExpenses.css'
 
 export default function NewExpenses(props) {

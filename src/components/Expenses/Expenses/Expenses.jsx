@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
-import ExpensesList from './ExpensesList';
-import Card  from '../UI/Card';
-import ExpenseFilter from './ExpenseFilter';
-import ExpensesChart from './ExpensesChart';
+import ExpensesList from '../ExpensesList/ExpensesList';
+import Card  from '../../UI/Card';
+import ExpenseFilter from '../ExpenseFilter/ExpenseFilter';
+import ExpensesChart from '../ExpensesChart';
 import './Expenses.css';
 
 export default function Expenses(props) { 
